@@ -1,4 +1,5 @@
-# vue-cli-test3
+# vue-cli-computer-shop
+computers shop use vue-cli3
 
 ## Project setup
 ```
